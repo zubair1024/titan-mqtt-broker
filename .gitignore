@@ -1,0 +1,8 @@
+.env
+
+.srl
+
+passwords.txt
+
+config/certs/*
+!config/certs/.gitinclude
